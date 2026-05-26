@@ -1,3 +1,4 @@
+@ -1,29 +0,0 @@
 ﻿from flask import Flask, request, jsonify
 import re
 
@@ -27,3 +28,8 @@ def home():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=10000)
+@ -1,3 +1,4 @@
+@ -1,29 +0,0 @@
+﻿from flask import Flask, request, jsonify
+import re
+

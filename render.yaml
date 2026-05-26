@@ -1,3 +1,4 @@
+@ -1,11 +0,0 @@
 ﻿services:
   - type: web
     name: mi-api-email
@@ -9,3 +10,4 @@
         value: 3.12.0
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn api:app
+

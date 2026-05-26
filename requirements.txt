@@ -1,3 +1,57 @@
-﻿flask
-flask-cors
-gunicorn
+# 🛡️ Niwell Internacional
+## Requisitos Legales y Descripción de Empresa
+
+> **Autor:** Niwell Cuello  
+> **Contacto:** niwellcuello@gmail.com  
+> **Ubicación:** República Dominicana  
+> **Fecha de creación:** $(Get-Date -Format "yyyy-MM-dd")  
+> **Versión del documento:** 1.0.0
+
+---
+
+## 🏢 Descripción de la Empresa
+
+### Información General
+
+```yaml
+# NIWELL-INTERNACIONAL-CONFIG.yaml
+company:
+  name: "Niwell Internacional"
+  legal_name: "Niwell Internacional S.R.L."  # Por definir
+  trade_name: "Niwell"
+  country: "República Dominicana"
+  language: "es-DO"
+  currency: "DOP"
+  
+contact:
+  founder: "Niwell Cuello"
+  email: "niwellcuello@gmail.com"
+  phone: "+1-809-XXX-XXXX"  # Por definir
+  website: "https://niwell.do"  # Por registrar
+  
+business:
+  sector: "Tecnología y Automatización"
+  activities:
+    - "Desarrollo de scripts PowerShell para automatización"
+    - "Validación y procesamiento de datos"
+    - "Consultoría en seguridad informática básica"
+    - "Generación de contenido con IA"
+    - "Servicios de edición de video y multimedia"
+  
+mission: >
+  Proporcionar soluciones tecnológicas accesibles, automatizadas y seguras 
+  para emprendedores y pequeñas empresas en República Dominicana y el Caribe,
+  empoderando a nuestros clientes mediante herramientas que simplifican 
+  sus procesos operativos.
+  
+vision: >
+  Ser la empresa de referencia en automatización tecnológica accesible 
+  en República Dominicana para el año 2030, reconocida por nuestra 
+  innovación, ética y compromiso con el desarrollo tecnológico local.
+  
+values:
+  - "Innovación accesible: Tecnología que todos pueden usar"
+  - "Transparencia: Procesos claros y comunicación honesta"
+  - "Seguridad: Protección de datos como prioridad"
+  - "Compromiso local: Apoyo al ecosistema tecnológico dominicano"
+  - "Automatización inteligente: Hacer más con menos esfuerzo"
